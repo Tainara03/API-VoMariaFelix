@@ -23,7 +23,8 @@
 <br>
 
 ## :briefcase: O Projeto
-Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
+Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix.<br>
+A evolução do projeto está descrita nas pastas de cada sprint.
 
 > [Documentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3oSprint4.pdf)
 
